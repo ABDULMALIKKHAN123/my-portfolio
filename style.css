@@ -576,3 +576,18 @@ button {
         transition-duration: 0.01ms !important;
     }
 }
+
+.resume-btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background: #2563eb;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+.resume-btn:hover {
+  background: #1d4ed8;
+}
