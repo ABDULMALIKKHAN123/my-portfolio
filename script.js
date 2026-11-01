@@ -37,7 +37,7 @@ const ONE_DAY = 24 * 60 * 60 * 1000;
 const API_URLS = {
     leetcode: "https://leetcode-stats.tashif.codes/Abdul_Malik_Khan/stats",
     // codechef: "https://codechef-stats.tashif.codes/cute_trust_22/profile"
-    codechef: "https://codechef-stats.tashif.codes/cute_trust_22/stats"
+    codechef: "https://codechef-stats.tashif.codes/abdulmalik1/stats"
 };
 
 
